@@ -10,7 +10,7 @@ package rtmp
 import (
 	"github.com/pkg/errors"
 
-	"github.com/yutopp/go-rtmp/internal"
+	"github.com/octu0/go-rtmp/internal"
 	"github.com/yutopp/go-rtmp/message"
 )
 
